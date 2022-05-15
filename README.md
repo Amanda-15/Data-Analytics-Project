@@ -1,18 +1,22 @@
 # Data-Analytics-Project
 
-This project is on 1179 students who attended different educational institutions e.g. Colleges, Schools and Universities. Students age ranged from 7-59. A survey was conducted to investigate COVID-19 Impact on Students Education, Social Life and Mental Health.
+This project is on 1179 students who attended different Educational Institutions e.g. Colleges, Schools and University. Students age ranged from 7-59. 
+A survey was conducted to investigate COVID-19 Impact on Students Education, Social Life and Mental Health.
 
 This project focused on Data Analytics using tools such as Excel, SQL and Power BI.
 
 My Findings
 
 Total amount of students 1179
+
 Maximum age of student 59
+
 Minimum age of student 7
+
 Average age of student 20
 
-Ages 7-17
-    18-22
+Ages 7-17,
+    18-22,
     23-59
         
 Does change in weight lead to health issues?
