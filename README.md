@@ -31,19 +31,4 @@ Students whose weight remained constant
 
 According to the data most students had the least amount of health issues despite the change in weight.
 
-What was the time spent on Online Class?
-Students aged 7-17 spent 4.4 hours on Online Class
-Students aged 18-22 spent 2.8 hours on Online Class
-Students aged 23-59 spent 2.8 hours on Online Class
-Overall the students aged 23-59 spent more time on Online Class than any other age group
-
-Average time spent on self-study
-7-17 		2.8 hours
-18-22		2.9 hours
-23-59		2.9 hours
-
-
-
-
-
 
