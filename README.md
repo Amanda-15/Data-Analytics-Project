@@ -15,9 +15,12 @@ Minimum age of student 7
 
 Average age of student 20
 
+
+
 Ages 7-17,
-    18-22,
+    18-22 and
     23-59
+        
         
         
 Does change in weight lead to health issues?
