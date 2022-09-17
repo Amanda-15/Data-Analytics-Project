@@ -106,7 +106,7 @@ ORDER BY 2;
 
 
 -- This CASE WHEN displays the ages with the medium used for online class and a count of Medium Online Class
--- 7-17 year old. 181 tudents spent the majority of their time using a Smartphone for online classes
+-- 7-17 year old. 181 students spent the majority of their time using a Smartphone for online classes
 -- 18-22 year old. 356 students spent the majority of their time using a Laptop/Desktop for online classes 
 -- 23-59 year old. 108 students spent the majority of their time using a Laptop/Desktop for online classes
 
